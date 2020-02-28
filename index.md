@@ -1,27 +1,22 @@
-## Welcome to GitHub Pages
+## Curriculum Vitae of Zhenxiang Shi
+### CONTACT INFORMATION
+-Mailing Address: Pengxiang Apartment, Tianjin University, China
+-Tel:(86)13602196779
+-Email Address:809299101yy@gmail.com
 
-You can use the [editor on GitHub](https://github.com/LambertSHI99/ZhenxiangShi.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### EDUCATION BACKGROUND
+-Bachelor Degree in Electrical Engineering, Tianjin University, Tianjin China     2017-2021
+-GPA:3.47/4
+-Core Courses: Digital Signal Processing, Physical Optics, Computer Vision, Electromagnetism and etc.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### HONORS & AWARDS
+-the Third Prize of National Undergraduate Electronics Design Contest
+-the Third Prize of Chinese Mathematics Competitions
+-the First Prize of Beiyang Cup Mathematics Contest
+-Top 10 hosts of Qiushi Honors College
 
-### Markdown
+### PROJECT EXPERIENCE
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
 ```
