@@ -1,8 +1,8 @@
-## Curriculum Vitae of Zhenxiang Shi
-### CONTACT INFORMATION
--Mailing Address: Pengxiang Apartment, Tianjin University, China
--Tel:(86)13602196779
--Email Address:809299101yy@gmail.com
+# Curriculum Vitae of Zhenxiang Shi
+## CONTACT INFORMATION
+###Mailing Address: Pengxiang Apartment, Tianjin University, China
+###Tel:(86)13602196779
+###Email Address:809299101yy@gmail.com
 
 ### EDUCATION BACKGROUND
 -Bachelor Degree in Electrical Engineering, Tianjin University, Tianjin China     2017-2021
