@@ -1,5 +1,6 @@
 
-## Curriculum Vitae of Zhenxiang Shi
+# Curriculum Vitae of Zhenxiang Shi
+
 ### CONTACT INFORMATION
 - Mailing Address: Pengxiang Apartment, Tianjin University, China
 - Tel:(86)13602196779
@@ -37,11 +38,13 @@
 - Minister
 - Responsible for the background operation of WeChat public account
 - Hosted 4 large meetings
+
 #### The Debate Team of Qiushi Honors College The Debate Team of Qiushi Honors College    
 - Sep 2017-Jun 2018
 - Captain
 - Represented the class in the school debate competition
 - Won the best debater three times 
+
 #### Young Volunteers Association                                                         
 - Sep 2017-Jun 2018
 - Minister
