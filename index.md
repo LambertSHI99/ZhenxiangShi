@@ -39,7 +39,7 @@
 - Responsible for the background operation of WeChat public account
 - Hosted 4 large meetings
 
-#### The Debate Team of Qiushi Honors College The Debate Team of Qiushi Honors College    
+#### The Debate Team of Qiushi Honors College   
 - Sep 2017-Jun 2018
 - Captain
 - Represented the class in the school debate competition
