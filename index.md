@@ -2,15 +2,15 @@
 # Curriculum Vitae of Zhenxiang Shi
 
 ### CONTACT INFORMATION
-- Mailing Address: Pengxiang Apartment, Tianjin University, China
+- Mailing Address: Division of Advanced Manufacturing, Tsinghua University, Shenzhen, China.
 - Tel:(86)13602196779
-- Email Address:809299101yy@gmail.com
+- Email Address:szx21@mails.tsinghua.edu.cn
 
 ### EDUCATION BACKGROUND
-- Bachelor Degree in Electrical Engineering, Tianjin University, Tianjin China     2017-2021
-- GPA:3.47/4
-- Core Courses: Digital Signal Processing, Physical Optics, Computer Vision, Electromagnetism and etc.
-
+- Master Degree in Electronics Information, Tsinghua University, Shenzhen, China    2021-2024 
+- Bachelor Degree in Measurement and Control Technology and Instruments, Tianjin University, Tianjin, China    2017-2021
+  - GPA:3.47/4
+  - Core Courses: Digital Signal Processing, Physical Optics, Computer Vision and etc.
 ### HONORS & AWARDS
 - the Third Prize of National Undergraduate Electronics Design Contest
 - the Third Prize of Chinese Mathematics Competitions
