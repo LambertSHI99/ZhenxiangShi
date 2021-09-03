@@ -19,14 +19,16 @@
 - Top 10 hosts of Qiushi Honors College
 
 ### PROJECT EXPERIENCE
-#### Optical Tweezers Research                                                             
+#### Optical Tweezers Research     
 - Sep 2018- Mar 2019  
+- Directed by Professor Chunguang Hu
 - Operated the Optical Tweezers to observe fundamental mechanical properties of protein produced by E.coli.
 - Analyzed a great deal data with the help of MATLAB
 - Processed graphs and pictures acquired by CCD camera.
 
 #### Intelligent Tracking Car                                                            
 - Mar 2018-Aug 2019
+- Directed by Associate Professor Shili Chen
 - Programmed for STM32f4 and STM32f1 via Keil5, enabled the steering gear to move, and prepared for further action design, function implementation, and maintenance of stability of the tracking car. 
 - Drew the PCB via Altium Designer, including drawings of the schematic diagram, pcblib, and PCB design, helping the team obtain a simple and portable PCB. 
 - Carried out algorithm programming through Keil5, including PID algorithm, to enable the tracking car to achieve the initial purpose with high efficiency and stability.
@@ -34,8 +36,8 @@
 - Designed an algorithm to control the tracking of target objects by openmv module.
 
 #### Surface Acoustic Wave Devices Research
-- Sep 2018- Mar 2019  
-- Directed by A.P. Weiwei Cui
+- Sep 2020- Jun 2021  
+- Directed by Assistant Professor Weiwei Cui
 - Analyzed the working principle of surface acoustic wave and the driving principle of acoustic fluid induced by surface acoustic wave, and expounded the research content and significance of the subject, namely, the micro-nano robot driven by acoustic streaming effect in microfluidics.
 - The interdigital electrode logarithm and the resonance frequency of SAW devices were simulated to obtain the optimal solution under laboratory processing conditions, The reflection grid part was designed on the IDT, thereby innovating the structural design of the interdigital transducer. Structural design of the transducer improved the surface acoustic wave power.
 -  Analyzed and compared the processing methods of different surface acoustic wave devices. Based on the traditional surface acoustic wave device manufacturing process, the process flow was optimized, and finally four kinds of surface acoustic wave devices with different resonance frequencies were manufactured. The optimal one of the devices was selected through experimental tests. 
