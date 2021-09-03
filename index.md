@@ -11,6 +11,7 @@
 - Bachelor Degree in Measurement and Control Technology and Instruments, Tianjin University, Tianjin, China    2017-2021
   - GPA:3.47/4
   - Core Courses: Digital Signal Processing, Physical Optics, Computer Vision and etc.
+
 ### HONORS & AWARDS
 - the Third Prize of National Undergraduate Electronics Design Contest
 - the Third Prize of Chinese Mathematics Competitions
