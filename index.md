@@ -2,7 +2,7 @@
 # Curriculum Vitae of Zhenxiang Shi
 
 ### CONTACT INFORMATION
-- Mailing Address: Division of Advanced Manufacturing, Tsinghua University, Shenzhen, China.
+- Mailing Address: Division of Advanced Manufacturing, Tsinghua Shenzhen International Graduate School, China.
 - Email Address:szx21@mails.tsinghua.edu.cn
 
 ### EDUCATION BACKGROUND
