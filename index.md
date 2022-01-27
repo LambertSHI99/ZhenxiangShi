@@ -62,6 +62,6 @@
 
 ### SKILLS
 - Electronic devices designing
-- C, C++, Python
-- Labview, MATLAB
+- Python, C, C++, LabVIEW, MATLAB
+- Deep Learning(familiar)
 - UG, CAD, Solidworks, 3D printer
