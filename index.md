@@ -3,7 +3,6 @@
 
 ### CONTACT INFORMATION
 - Mailing Address: Division of Advanced Manufacturing, Tsinghua University, Shenzhen, China.
-- Tel:(86)13602196779
 - Email Address:szx21@mails.tsinghua.edu.cn
 
 ### EDUCATION BACKGROUND
