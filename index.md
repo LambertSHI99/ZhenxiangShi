@@ -1,5 +1,4 @@
 
-# Curriculum Vitae of Zhenxiang Shi
 
 ### CONTACT INFORMATION
 - Mailing Address: Division of Advanced Manufacturing, Tsinghua University, Shenzhen, China.
